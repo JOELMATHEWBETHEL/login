@@ -1,0 +1,1 @@
+This is a simple login done using PHP,BootStrp,jQuery and css.Database used is added as an sql file in the repository.
